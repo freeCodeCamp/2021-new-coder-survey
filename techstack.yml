@@ -1,0 +1,20 @@
+repo_name: freeCodeCamp/2021-new-coder-survey
+report_id: e98ad1445266e567e0387c670a181fc2
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-27T03:50:19+00:00'
+requested_by: QuincyLarson
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/freeCodeCamp/2021-new-coder-survey
+  detection_source: Repo Metadata
